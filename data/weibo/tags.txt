@@ -1,0 +1,9 @@
+O
+I-LOC
+I-ORG
+B-ORG
+B-GPE
+B-PER
+I-PER
+I-GPE
+B-LOC
